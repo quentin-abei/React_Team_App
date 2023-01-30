@@ -1,0 +1,32 @@
+:root {
+  --font-family: "Poppins", sans-serif;
+  --dark-blue: rgb(18, 5, 54);
+  --light-blue: rgb(22, 9, 105);
+
+  --color-white: #fff;
+  --color-dark: #333;
+
+  --color-grey: #c3c2a3;
+  --box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+
+  --color-purple: rgb(87, 42, 8);
+  --color-yellow: rgb(150, 139, 13);
+
+  --color-primary: rgb(23, 16, 52);
+  --color-success: rgb(6, 104, 16);
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(19, 7, 7);
+  color: var(--color-white);
+  font-family: "Poppins", sans-serif;
+}
+
+
